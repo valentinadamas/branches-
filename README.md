@@ -4,3 +4,6 @@
 
 ```javascript
 console.log('Hello world!');
+
+> linha criada usando a branch 'feat-1'.
+
