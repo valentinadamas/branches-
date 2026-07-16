@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+    color: white;
+}
+p{
+    font-size: 0.5rem;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
